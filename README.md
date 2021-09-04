@@ -67,7 +67,7 @@ console.pay()
 ## __Theme:__
 Small business merchants
 
-## __Sample Images: __
+## __Sample Images:__
 <img src="img/Sample1.jpg">
 <img src="img/Sample2.jpg">
 <img src="img/Sample3.jpg">

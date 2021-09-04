@@ -67,3 +67,28 @@ console.pay()
 ## __Theme:__
 Small business merchants
 
+## __Sample Images: __
+<img src="img/Sample1.jpg">
+<img src="img/Sample2.jpg">
+<img src="img/Sample3.jpg">
+<img src="img/Sample4.jpg">
+<img src="img/Sample5.jpg">
+<img src="img/Sample6.jpg">
+<img src="img/Sample7.jpg">
+<img src="img/Sample8.jpg">
+<img src="img/Sample9.jpg">
+<img src="img/Sample10.jpg">
+<img src="img/Sample11.jpg">
+<img src="img/Sample12.jpg">
+<img src="img/Sample13.jpg">
+<img src="img/Sample14.jpg">
+<img src="img/Sample15.jpg">
+<img src="img/Sample16.jpg">
+<img src="img/Sample17.jpg">
+<img src="img/Sample18.jpg">
+<img src="img/Sample19.jpg">
+<img src="img/Sample20.jpg">
+
+
+
+
